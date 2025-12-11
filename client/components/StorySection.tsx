@@ -13,14 +13,14 @@ export default function StorySection() {
       <div className="absolute inset-0 opacity-100">
         <div className="hidden md:flex absolute top-10 right-20 w-40 h-40 rounded-full border-2 border-white overflow-hidden">
           <img
-            src="./client/src/foto3.jpg"
+            src="./images/foto3.jpg"
             alt="Foto decorativa 1"
             className="w-full h-full object-cover"
           />
         </div>
         <div className="hidden md:flex absolute bottom-20 left-20 w-40 h-40 rounded-full border-2 border-white overflow-hidden">
           <img
-            src="./client/src/foto2.jpg"
+            src="./images/foto2.jpg"
             alt="Foto decorativa 2"
             className="w-full h-full object-cover"
           />

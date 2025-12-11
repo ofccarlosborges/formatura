@@ -52,7 +52,7 @@ export default function PixSection() {
                 <div className="absolute -inset-1 border border-black/5 rounded-lg" />
                 <div className="flex flex-col items-center gap-2 md:gap-3 relative z-10">
                 <img
-                  src="./client/src/pix.png"
+                  src="./images/pix.png"
                   alt="Placeholder para sua foto de formatura"
                   className="w-full h-full"
                 />

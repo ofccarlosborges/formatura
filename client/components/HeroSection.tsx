@@ -20,7 +20,7 @@ export default function HeroSection() {
                 style={{ backgroundColor: "#0D1B2A" }}
               />
               <img
-                src="./client/src/foto.jpeg"
+                src="./images/foto.jpeg"
                 alt="Placeholder para sua foto de formatura"
                 className="w-full h-auto rounded-lg object-cover relative z-10 border-2 border-white"
               />
