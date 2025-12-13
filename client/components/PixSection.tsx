@@ -31,11 +31,11 @@ export default function PixSection() {
       <div className="container mx-auto px-4 sm:px-6 max-w-2xl relative z-10">
         <div className="flex flex-col items-center text-center">
           <h2 className="text-2xl md:text-4xl font-serif font-bold text-black mb-2 md:mb-4">
-            Presenteie o Meu Futuro via PIX
+            Apoie o Próximo Passo
           </h2>
 
           <p className="text-sm md:text-lg text-gray-700 font-sans mb-4 md:mb-6">
-            Escaneie o QR Code ou copie a chave PIX. Qualquer valor é bem-vindo!
+            Se você se identificou com esta história e deseja contribuir para o início do Mestrado, utilize o QR Code ou a chave PIX abaixo. Sua participação é um incentivo inestimável. Lembrando que não será olhado valor, mas intenção.
           </p>
 
           <div className="w-full mb-4 md:mb-6 flex justify-center">

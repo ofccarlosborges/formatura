@@ -28,11 +28,7 @@ export default function HeroSection() {
           </div>
 
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-white mb-2 leading-tight">
-            O Próximo Capítulo:
-          </h1>
-
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-white mb-4 md:mb-5 leading-tight">
-            Mestrado
+           Que bom ter você aqui!
           </h1>
 
           <p className="text-base md:text-lg text-gray-200 font-sans max-w-md">
